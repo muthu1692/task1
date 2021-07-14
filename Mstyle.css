@@ -1,0 +1,107 @@
+*{
+  padding: 0;
+  margin:0;
+}
+.head{
+  height: 95px;
+  width: 100%;
+}
+nav ul li:hover{
+  color: brown
+}
+
+.active
+{
+  color: brown
+}
+.ptext{
+  text-align:center;
+  font-size: 50;
+  color: blue;
+}
+.link{
+  padding-left: 42%;
+}
+nav{
+  position: fixed;
+  background: #5F3CFE;
+  height: 120px;
+}
+nav ul{
+  color: blue;
+  float: right;
+
+
+
+}
+nav ul li{
+  display: inline-block;
+  padding-right: 10px;
+  color: white;
+  padding-top: 2px;
+  font-family: fantasy;
+}
+nav p{
+  float: left;
+  padding-top: 2px;
+  font-family: ui-sans-serif;
+  color: white;
+  padding-left: 53px;
+
+}
+.poster{
+  width: 100%;
+  height: 300px;
+  background:yellow;
+}
+.blocks{
+  height: 20%;
+  width: 313px;
+  background: #f2ca5a;
+
+  float: left;
+  margin: 10px;
+  border-radius: 20px;
+}
+.img2{
+  width: 674px;
+  height:400px;
+  background:skyblue;
+  float: left;
+}
+.form{
+  width: 674px;
+  height:400px;
+  background:linear-gradient(to bottom, #D0274D, #303CA6);
+  float: right;
+  text-align: center;
+}
+.tex2{
+  color: black;
+  font-size: 15px;
+}
+.last{
+  width:100%;
+  height: 30%;
+  background: gray;
+  display: inline-block;
+  text-align: center;
+}
+.tex{
+text-align: center;
+color:white;
+font-size: 30px;
+}
+.a1
+{
+  width: 250px;
+  height: 50px;
+border:none;
+border-radius: 5px;
+  background-color: white;
+}
+.lo{
+  width: 250px;
+  height: 50px;
+  background-color: darkblue;
+}
